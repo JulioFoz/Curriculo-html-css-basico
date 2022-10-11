@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
 	<meta charset="UTF-8">
@@ -9,7 +9,8 @@
 	<link rel="stylesheet" href="index.html">
 	<link href = "https://fonts.googleapis.com/css2? family = Rubik & display = swap" rel = "stylesheet">
 	<link href = "https://fonts.googleapis.com/css2? family = Piazzolla & display = swap" rel = "stylesheet">
-	<link href= "https://juliofoz.github.io/Meu-Projeto-Curriculo/style.css" rel = "stylesheet">
+    <link href= "https://juliofoz.github.io/Meu-Projeto-Curriculo/style.css" rel = "stylesheet">
+
 </head>
 <body>
 	<main>
@@ -33,4 +34,3 @@
 		<!-- teste -->
 	</footer></body>
 </html>
-
