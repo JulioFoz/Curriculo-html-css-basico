@@ -1,0 +1,36 @@
+<!DOCTYPEhtml>
+<html lang="pt-br">
+<cabeça>
+	<meta charset="UTF-8">
+	<title>Julio Fernando - Desenvolvedor Web</title>
+	<link rel="ícone de atalho" href="painticon.png">
+	<link rel="stylesheet" href="reset.css">
+	<link rel="stylesheet" href="curilocss.css">
+	<link rel="stylesheet" href="index.html">
+	<link href = "https://fonts.googleapis.com/css2? family = Rubik & display = swap" rel = "stylesheet">
+	<link href = "https://fonts.googleapis.com/css2? family = Piazzolla & display = swap" rel = "stylesheet">
+    <link href = "https://juliofoz.github.io/Meu-Projeto-Curriculo/style.css" rel = "stylesheet">
+
+</head>
+<corpo>
+	<principal>
+		<fieldset class="nome-principal">
+			<img src="julio.png" class="imagemjuliohome" alt="imagem do julio">
+			<h1 class="meu-nome">Júlio Fernando</h1>
+			<p>Desenvolvedor da web</p>
+		</fieldset>
+
+		<fieldset class="apresentacao">
+			<p><span class="apresentacao-ola">Olá</span>, meu nome é <strong>Julio Fernando</strong> <span class="eu-construo">e eu construo <em>sites maravilhosos. </em></span></p>
+
+			<ul class="itens-currículo">
+				<li><a href="curriculo.html">Conheça um pouco mais sobre mim</a></li>
+			</ul>
+		</fieldset>
+	</main>
+	<footer class="rodape-pagina">
+		<p>&copiar Julio Fernando costa - 2022</p>
+
+		<!-- teste -->
+	</footer></body>
+</html>
